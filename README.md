@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR-IMAGE-FILENAME.jpg" width="100%">
+  <img src="download (8).jpg" width="100%">
 </p>
 
 # Amolika Singh
